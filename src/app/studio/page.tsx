@@ -80,29 +80,33 @@ export default function Studio() {
                 <tbody>
                 <tr>
                   <td>OS</td>
-                  <td>Windows 10 Home 64-bit</td>
+                  <td>Windows 11 Home 64-bit</td>
                 </tr>
                 <tr>
                   <td>CPU</td>
-                  <td>Intel Core i5-10400F 10th Gen</td>
+                  <td>AMD Ryzen 7 5700X</td>
                 </tr>
                 <tr>
                   <td>RAM</td>
-                  <td>16GB 3200MHz DDR4</td>
+                  <td>32GB 3200MHz DDR4</td>
                 </tr>
                 <tr>
                   <td>GPU</td>
-                  <td>RTX 2060 6GB GDDR6</td>
+                  <td>RTX 5060 8GB GDDR7</td>
                 </tr>
                 <tr>
                   <td>Storage</td>
-                  <td>NVMe M.2 512GB Gen3x4</td>
+                  <td>
+                    NVMe M.2 512GB Gen3x4
+                    <br/>
+                    NVMe M.2 1TB Gen4x4
+                  </td>
                 </tr>
                 </tbody>
               </table>
             </div>
             <h2 className={clsx('heading heading-h3')}>Support Device</h2>
-            <p>Apple MacBook Air M3 2024 16GB 512GB</p>
+            <p>Apple MacBook Air M4 2025 16GB 256GB</p>
             <hr className={clsx('divider')} />
             <h2
               id="display"
@@ -122,7 +126,7 @@ export default function Studio() {
                 <tbody>
                 <tr>
                   <td>Model</td>
-                  <td>Asus TUF GAMING VG249Q3A</td>
+                  <td>Dell UltraSharp U2424HE</td>
                 </tr>
                 <tr>
                   <td>Resolution</td>
@@ -134,7 +138,7 @@ export default function Studio() {
                 </tr>
                 <tr>
                   <td>Refresh rate</td>
-                  <td>180 Hz</td>
+                  <td>120 Hz</td>
                 </tr>
                 </tbody>
               </table>
@@ -163,7 +167,7 @@ export default function Studio() {
                 </tr>
                 <tr>
                   <td>PCB</td>
-                  <td>Hotswap 8KHz 1 mode</td>
+                  <td>Solder 1 mode</td>
                 </tr>
                 <tr>
                   <td>Plate</td>
@@ -199,15 +203,15 @@ export default function Studio() {
                 <tbody>
                 <tr>
                   <td>Model</td>
-                  <td>VGN Dragonfly F1 MOBA / 2 modes</td>
+                  <td>ATK A9 Ultra / 3 modes</td>
                 </tr>
                 <tr>
                   <td>Sensors</td>
-                  <td>Pixart PAW3395</td>
+                  <td>PAW3950 Ultra</td>
                 </tr>
                 <tr>
                   <td>Size</td>
-                  <td>121,2mm x 63,5mm x 37,6mm</td>
+                  <td>125mm x 64mm x 40mm</td>
                 </tr>
                 <tr>
                   <td>Weight</td>
@@ -227,19 +231,19 @@ export default function Studio() {
                 <tbody>
                 <tr>
                   <td>Model</td>
-                  <td>VGN VXE R1 SE+ / 3 modes</td>
+                  <td>ATK A9 Mini Plus / 2 modes</td>
                 </tr>
                 <tr>
                   <td>Sensors</td>
-                  <td>PAW3395 SE</td>
+                  <td>PAW3955 Master</td>
                 </tr>
                 <tr>
                   <td>Size</td>
-                  <td>120,6mm x 64mm x 37,8mm</td>
+                  <td>118,4mm x 61,2mm x 38,6mm</td>
                 </tr>
                 <tr>
                   <td>Weight</td>
-                  <td>49g</td>
+                  <td>45g</td>
                 </tr>
                 </tbody>
               </table>
@@ -271,15 +275,15 @@ export default function Studio() {
                 </tr>
                 <tr>
                   <td>Earbuds</td>
-                  <td>EarPods 3.5mm</td>
+                  <td>Apple EarPods 3.5mm</td>
                 </tr>
                 <tr>
                   <td>Earbuds</td>
-                  <td>Sony WF-1000XM5</td>
+                  <td>Apple EarPods USB-C</td>
                 </tr>
                 <tr>
-                  <td>Headphones</td>
-                  <td>Sony WH-1000XM5</td>
+                  <td>IEM</td>
+                  <td>GK Kunten 3.5mm</td>
                 </tr>
                 </tbody>
               </table>
@@ -307,7 +311,7 @@ export default function Studio() {
                 </tr>
                 <tr>
                   <td>Mouse pad</td>
-                  <td>X-raypad Aqua Control 2</td>
+                  <td>Pulsar ParaGlide XL</td>
                 </tr>
                 <tr>
                   <td>Keyboard pad</td>
