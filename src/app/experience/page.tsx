@@ -51,16 +51,22 @@ export default function ExperiencePage() {
               Full-time Work
             </h2>
             <p>
-              <strong>Teko Vietnam</strong> (May 2021 - Present)
+              <strong>Teko Vietnam</strong> (May. 2021 - May. 2025)
             </p>
-            <hr className={clsx('divider')} />
-            <h2
-              id="freelance"
-              data-ss="freelance"
-              className={clsx('heading heading-h2')}
-            >
-              Freelance
-            </h2>
+            <ul>
+              <li>Designed and implemented the backend for a travel itinerary and expense-sharing mobile application.</li>
+              <li>Developed and maintained enterprise applications for Customer Relationship Management, supporting 1,000+ daily active users.</li>
+              <li>Mentored and trained new team members, including code reviews and on-the-job guidance.</li>
+              <li>Language/Technology: <b>Golang</b>, <b>Python</b>, <b>MySQL</b>.</li>
+            </ul>
+            {/*<hr className={clsx('divider')} />*/}
+            {/*<h2*/}
+            {/*  id="freelance"*/}
+            {/*  data-ss="freelance"*/}
+            {/*  className={clsx('heading heading-h2')}*/}
+            {/*>*/}
+            {/*  Freelance*/}
+            {/*</h2>*/}
           </div>
           <div
             className={clsx(
