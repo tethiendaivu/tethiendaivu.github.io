@@ -24,7 +24,7 @@ function HeroImage() {
       >
         <div
           className={clsx(
-            'relative right-10 top-[105px] overflow-hidden'
+            'relative right-[115px] top-[125px] w-fit overflow-hidden'
           )}
         >
           <motion.div
@@ -50,8 +50,8 @@ function HeroImage() {
             <Image
               alt="tethiendaivu"
               src="/assets/images/avatar.png"
-              width={457}
-              height={485}
+              width={590}
+              height={550}
               className={clsx(' max-w-none', 'dark:brightness-[.82]')}
               quality={100}
               priority
